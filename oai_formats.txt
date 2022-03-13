@@ -1,0 +1,5 @@
+oai_openaire_jats
+oai_marc
+oai_dc
+rfc1807
+marcxml
